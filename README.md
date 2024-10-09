@@ -1,5 +1,8 @@
 # TP
 
+:cat:
+:koala:
+
 Apprentissage de Git
 
 Le Chêne un jour dit au roseau :
